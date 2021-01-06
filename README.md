@@ -1,30 +1,25 @@
-# _My First Web Page_
+# My First Web Page
 
-#### _Demonstration site showcasing HTML, CSS_
+### _By Micah Olson and Kody Gordon_
+### _An example web page as a tutorial for beginners_
 
-#### By _**Micah L. Olson**_
-
-## Technologies Used
-
-* _HTML_
-* _CSS_
+## Technologies
+* HTML
+* CSS
 
 ## Description
+This website was created as part of a tutorial teaching web development concepts through Epicodus coding school
 
-_This site was created under the tutelage of Epicodus code school to apply various development concepts and practice various technologies._
-
-## Setup/Installation Requirements
-
-* _Open https://micaholson.github.io/my-first-project in any modern browser_
+## Setup/Installation Requirement
+* [my-first-webpage](https://micaholson.github.io/my-first-webpage)
+* Clone from [repository](https://github.com/MicahOlson/my-first-webpage)
 
 ## Known Bugs
-
-* _None_
+* Design will be improved
 
 ## License
-
-_GPL_
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Contact Information
-
-_Contact information to be added in a future update._
+Micah Olson (example@email.com)
+Kody Gordon (gordon.km89@gmail.com)
