@@ -11,7 +11,7 @@
 This website was created as part of a tutorial teaching web development concepts through Epicodus coding school
 
 ## Setup/Installation Requirement
-* [my-first-webpage](https://micaholson.github.io/my-first-webpage)
+* [my-first-webpage](https://micaholson.github.io/my-first-webpage) website
 * Clone from [repository](https://github.com/MicahOlson/my-first-webpage)
 
 ## Known Bugs
